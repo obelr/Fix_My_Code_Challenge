@@ -12,5 +12,4 @@ Description
 * b'I finished and deployed my Rails blog but people are contacting me because they can\xe2\x80\x99t access any of my blog posts\xe2\x80\xa6 Weird, it works for me\xe2\x80\xa6'
 ### 4. Never leave the office
 * b'I\xe2\x80\x99m coming back from 2 weeks of holidays in France and when I arrived at the office, the first words from my marketing co-worker were: \xe2\x80\x9cHi, how was your holiday? by the way, I think I broke the website\xe2\x80\xa6\xe2\x80\x9d'
-## Author
-  * Maryann Unoarumi - Maryann529
+
